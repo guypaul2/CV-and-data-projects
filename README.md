@@ -8,4 +8,5 @@ I am looking for : VR related jobs / data scientist or analyst / art & IT relate
 
 
 *"Il faut du courage pour naviguer en mer inconnue"*
+
 Snoopy
