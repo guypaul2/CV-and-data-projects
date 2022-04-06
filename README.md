@@ -7,6 +7,4 @@ I am looking for : VR related jobs / data scientist or analyst / art & IT relate
 @mail : simwellenreiter@gmail.com
 
 
-*"Il faut du courage pour naviguer en mer inconnue"*
-
-Snoopy
+*"Il faut du courage pour naviguer en mer inconnue"* - Snoopy
