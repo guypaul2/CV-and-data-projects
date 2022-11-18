@@ -12,5 +12,5 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 
 *"Il faut du courage pour naviguer en mer inconnue"* - Snoopy
 
-![alt text](https://github.com/[guypaul2]/[Curriculum-Vitae]/blob/[main]/CV_Simon_Wellenreiter_ENG.pdf?raw=true)
+![alt text](https://github.com/[guypaul2]/[Curriculum-Vitae]/blob/[main]/CV_Simon_Wellenreiter_ENG-1.png.pdf?raw=true)
 
