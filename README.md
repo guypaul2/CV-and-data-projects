@@ -1,10 +1,10 @@
 # Curriculum-Vitae-Extended
 ##### Table of Contents  
 [Curriculum Vitae](#cv)  
-[Projects](#Projects)  
-- [MyAnimeList Analysis](#MAL)
-- [Wiki pathfinder vizualisation](#Pathfinder)
-- [LoL classifier](#LOL)
+[Projects](#projects)  
+- [MyAnimeList Analysis](#mal)
+- [Wiki pathfinder vizualisation](#pathfinder)
+- [LoL classifier](#lol)
 
 
 Don't hesitate to contact me for professional opportunities.
@@ -23,7 +23,8 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 ## Curriculum Vitae
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/CV_Simon_Wellenreiter_ENG-1.png?raw=true)
 
-<a name="Projects"/>
+
+<a name="projects"/>
 ## Projects :
 <a name="MAL"/>
 ### MyAnimeList Analysis
@@ -43,13 +44,13 @@ Done :
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/(My)AnimeList_analysis-1.png?raw=true)
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/(My)AnimeList_analysis-2.png?raw=true)
 
-<a name="Pathfinder"/>
+<a name="pathfinder"/>
 ### Wiki pathfinder vizualisation
 Wikipedia visualization of a tabletop role-playing game. The project was highly focused on text then data processing and vizualisation.
 You will find more information about this project on my Kaggle (https://www.kaggle.com/code/simonwellenreiter/pathfinder-fr-words-cluster)
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Tableau_wiki_pathfinder.png?raw=true)
 
-<a name="LOL"/>
+<a name="lol"/>
 ### LoL classifier
 Prediction of a video game winner (League of Legends). The project was highly focused on data processing and machine learning.
 You will find more information about this project on my Kaggle (https://www.kaggle.com/code/simonwellenreiter/lol-classifier)
