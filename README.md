@@ -34,12 +34,12 @@ Done :
 - Personalized query function
 - Python graphe (matplotlib) integration
 - ....
-![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Alcohol\ prohibition\ aroud\ the\ world.png?raw=true)
-![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Beverages around the world.png?raw=true)
-![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Most famous vodka brands around the world.png?raw=true)
-![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA recipe tree.png?raw=true)
-![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA recipe detailed.png?raw=true)
-![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA cocktails by liquid quantity.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Alcohol_prohibition_aroud_the_world.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Beverages_around_the_world.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Most_famous_vodka_brands_around_the_world.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA_recipe_tree.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA_recipe_detailed.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA_cocktails_by_liquid_quantity.png?raw=true)
 
 
 <a name="mal"></a>
