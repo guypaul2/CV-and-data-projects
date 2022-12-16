@@ -34,7 +34,7 @@ Done :
 - Personalized query function
 - Python graphe (matplotlib) integration
 - ....
-![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Alcohol prohibition aroud the world.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Alcohol\ prohibition\ aroud\ the\ world.png?raw=true)
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Beverages around the world.png?raw=true)
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Most famous vodka brands around the world.png?raw=true)
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA recipe tree.png?raw=true)
