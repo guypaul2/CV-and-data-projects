@@ -10,6 +10,7 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 ## Table of Contents  
 [Curriculum Vitae](#cv)  
 [Projects](#projects)  
+- [Beverages and IBA cocktails around the world](#cocktail)
 - [MyAnimeList Analysis](#mal)
 - [Wiki pathfinder vizualisation](#pathfinder)
 - [LoL classifier](#lol)
@@ -24,6 +25,23 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 
 
 ## Projects :<a name="projects"></a>
+<a name="cocktail"></a>
+### Beverages and IBA cocktails around the world
+Second project using Power BI, here I tried to gathered data from many different sources, mainly Wikipedia pages, and merge them into one project.
+Done :
+- Geographical data manipulation
+- Database Snowflake architecture
+- Personalized query function
+- Python graphe (matplotlib) integration
+- ....
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Alcohol prohibition aroud the world.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Beverages around the world.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Most famous vodka brands around the world.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA recipe tree.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA recipe detailed.png?raw=true)
+![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/IBA cocktails by liquid quantity.png?raw=true)
+
+
 <a name="mal"></a>
 ### MyAnimeList Analysis
 Getting started with the Power BI, deep analysis of anime trends from MyAnimeList website
@@ -38,7 +56,7 @@ Done :
 - Adaptive text (via cards) also in title of tooltips
 - Adaptive tooltips (by studio/genre/producer/licensor)
 - Dynamic slicers using other slicers
-- And probably more ....
+- ....
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/(My)AnimeList_analysis-1.png?raw=true)
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/(My)AnimeList_analysis-2.png?raw=true)
 
