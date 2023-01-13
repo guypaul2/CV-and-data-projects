@@ -11,7 +11,8 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 - [Curriculum Vitae](#cv)
 - [Experiences](#experiences)
   - [Thémis consulting](#themis)
-    - [MGEN](#mgen) 
+    - [MGEN](#mgen)
+
 -[Projects](#projects)  
   - [Beverages and IBA cocktails around the world](#cocktail)
   - [MyAnimeList Analysis](#mal)
