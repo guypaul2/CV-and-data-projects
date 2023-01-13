@@ -8,16 +8,16 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 
 *"Il faut du courage pour naviguer en mer inconnue"* - Snoopy
 ## Table of Contents  
-[Curriculum Vitae](#cv)
-[Experiences](#experiences)
-- [Thémis consulting](#themis)
-  - [MGEN](#mgen) 
+- [Curriculum Vitae](#cv)
+- [Experiences](#experiences)
+  - [Thémis consulting](#themis)
+    - [MGEN](#mgen) 
 
-[Projects](#projects)  
-- [Beverages and IBA cocktails around the world](#cocktail)
-- [MyAnimeList Analysis](#mal)
-- [Wiki pathfinder vizualisation](#pathfinder)
-- [LoL classifier](#lol)
+-[Projects](#projects)  
+  - [Beverages and IBA cocktails around the world](#cocktail)
+  - [MyAnimeList Analysis](#mal)
+  - [Wiki pathfinder vizualisation](#pathfinder)
+  - [LoL classifier](#lol)
 
 
 
