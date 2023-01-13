@@ -12,7 +12,6 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 - [Experiences](#experiences)
   - [Thémis consulting](#themis)
     - [MGEN](#mgen) 
-
 -[Projects](#projects)  
   - [Beverages and IBA cocktails around the world](#cocktail)
   - [MyAnimeList Analysis](#mal)
