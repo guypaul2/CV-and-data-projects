@@ -8,7 +8,10 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 
 *"Il faut du courage pour naviguer en mer inconnue"* - Snoopy
 ## Table of Contents  
-[Curriculum Vitae](#cv)  
+[Curriculum Vitae](#cv)
+[Experiences](#experiences)
+- [Thémis consulting](#themis)
+  - [MGEN](#mgen) 
 [Projects](#projects)  
 - [Beverages and IBA cocktails around the world](#cocktail)
 - [MyAnimeList Analysis](#mal)
@@ -22,7 +25,13 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 ## Curriculum Vitae<a name="cv"></a>
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/CV_Simon_Wellenreiter_ENG-1.png?raw=true)
 
+## Experiences<a name="experiences"></a>
+### Thémis consulting from 20/10/2022 to ...<a name="themis"></a>
+Power BI projects (pivot table from excel to power BI about annual results and objectives of the sales staff.
 
+#### Mission at MGEN from 3/01/2023 to ...<a name="mgen"></a>
+- Insurance company, buisness knowledge (group and individual contracts)
+- ELT Xdi Semarchy
 
 ## Projects :<a name="projects"></a>
 <a name="cocktail"></a>
