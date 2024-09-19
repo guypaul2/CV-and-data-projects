@@ -88,13 +88,13 @@ Done :
 
 
 ### Wiki pathfinder vizualisation<a name="pathfinder"></a> (2022)
-[Wikipedia visualization of a tabletop role-playing game](https://public.tableau.com/app/profile/simon.wellenreiter#!/). The project was highly focused on text then data processing and vizualisation.
+[Wikipedia visualization of a tabletop role-playing game](https://public.tableau.com/app/profile/simon.wellenreiter#!/). The project was highly focused on text then data processing and vizualisation.<br />
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/Tableau_wiki_pathfinder.png?raw=true)
 
 
 ### LoL classifier<a name="lol"></a> (2022)
 Prediction of a video game winner (League of Legends). The project was highly focused on data processing and machine learning.
-You will find more information about this project on my [Kaggle](https://www.kaggle.com/simonwellenreiter)
+You will find more information about this project on my [Kaggle](https://www.kaggle.com/simonwellenreiter).<br />
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/correlation_matrix_lol_predictor.png?raw=true)
 
 
