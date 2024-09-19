@@ -26,13 +26,14 @@ Tableau : https://public.tableau.com/app/profile/simon.wellenreiter#!/
 ![alt text](https://github.com/guypaul2/Curriculum-Vitae/blob/main/CV_Simon_Wellenreiter_ENG-1.png?raw=true)
 
 ## Experiences<a name="experiences"></a>
-### Thémis consulting from 20/10/2022 to ...<a name="themis"></a>
-Power BI projects (pivot table from excel to power BI about annual results and objectives of the sales staff.
+### Thémis consulting from 20/10/2022 to 03/01/2023 <a name="themis"></a>
+Power BI project (pivot table from excel to power BI about annual results and objectives of the sales staff).
 
-#### Mission at MGEN from 3/01/2023 to ...<a name="mgen"></a>
-- Insurance company, buisness knowledge (group and individual contracts)
-- ELT Xdi Semarchy
+#### Mission at MGEN from 03/01/2023 to 19/09/2023 <a name="mgen"></a>
+- Technical skills: ELT Semarchy xDI, PostgreSQL (via DBeaver), CI/CD, Git, Cyberduck, network (SSH, FTP, etc.), Excel. 
+- Functional skills: insurance and more specifically mutual health insurance in France. Involvement in a major overhaul of a large company's data processing system to adapt it from individual contracts to group contracts, as part of the reform of supplementary social protection for public-sector employees (réforme de la protection sociale complémentaire des agents publics). Working within an AGILE (SCRUM) framework in an environment with high economic stakes.
 
+- 
 ## Projects :<a name="projects"></a>
 <a name="cocktail"></a>
 ### Beverages and IBA cocktails around the world
