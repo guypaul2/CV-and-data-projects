@@ -60,8 +60,8 @@ Power BI project (pivot table from excel to Power BI about annual results and ob
 #### Development of an augmented reality smartphone application for automatic addressing <a name="eden_map"></a>
 - Overview: As part of the Eden Map project, which aims to find solutions for address management, I developed an application to use automatic postal address data to view them in augmented reality using a smartphone.
 
-#### Development of an augmented reality smartphone application for automatic addressing <a name="cine"></a>
-- Overview: At the University of Ulster in Ireland (CINE project), I worked in a laboratory on the development of an augmented reality mobile application (via Unity) as part of a project to highlight the ancient architectural heritage of northern European countries.
+#### Development of an augmented reality smartphone application for the CINE project <a name="cine"></a>
+- Overview: At the University of Ulster in Ireland, I worked in a laboratory on the development of an augmented reality mobile application (via Unity) as part of a project to highlight the ancient architectural heritage of northern European countries.
 
 ## Personnal projects :<a name="projects"></a>
 <a name="cocktail"></a>
