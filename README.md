@@ -12,6 +12,10 @@
   - [SDES - Ministry of Ecological Transition and Territorial Cohesion (France)](#sdes)  
   - [Thémis consulting](#themis)
     - [MGEN](#mgen)
+  - [Internships](#internships)
+    - [LAMPA](#lampa)
+    - [EDEN MAP](#eden_map)
+    - [CINE](#cine)
 - [Personnal projects](#projects)  
   - [Beverages and IBA cocktails around the world](#cocktail)
   - [MyAnimeList Analysis](#mal)
@@ -49,6 +53,15 @@ Power BI project (pivot table from excel to Power BI about annual results and ob
 - Functional skills: insurance and more specifically mutual health insurance in France. Involvement in a major overhaul of a large company's data processing system to adapt it from individual contracts to group contracts, as part of the reform of supplementary social protection for public-sector employees (réforme de la protection sociale complémentaire des agents publics). Working within an AGILE (SCRUM) framework in an environment with high economic stakes.
 - Technical skills: ELT Semarchy xDI, PostgreSQL (via DBeaver), CI/CD, Git, Cyberduck, network (SSH, FTP, etc.), Excel. 
 
+### Internships :
+#### Research internship on embodiment and creativity in immersive virtual environments <a name="lampa"></a>
+- Overview: 6 months internship at The presence and innovation team of the Arts et Métiers LAMPA laboratory. Research work on the question of creativity in immersive environments, setting up an experiment designed to investigate whether embodying a well-known creative genius could enhance participants' creative performance. The research and work carried out led to the publication of a scientific article in [IEEE Transactions on Visualization and Computer Graphics](https://doi.org/10.1109/TVCG.2023.3320225)
+
+#### Development of an augmented reality smartphone application for automatic addressing <a name="eden_map"></a>
+- Overview: As part of the Eden Map project, which aims to find solutions for address management, I developed an application to use automatic postal address data to view them in augmented reality using a smartphone.
+
+#### Development of an augmented reality smartphone application for automatic addressing <a name="cine"></a>
+- Overview: At the University of Ulster in Ireland (CINE project), I worked in a laboratory on the development of an augmented reality mobile application (via Unity) as part of a project to highlight the ancient architectural heritage of northern European countries.
 
 ## Personnal projects :<a name="projects"></a>
 <a name="cocktail"></a>
