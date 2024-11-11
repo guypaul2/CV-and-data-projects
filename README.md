@@ -46,7 +46,7 @@
 - Technical skills: R, Excel, Power BI, PostgreSQL (via DBeaver), Git
 - Training: [Rapid estimates and nowcasting - 2024](https://cros.ec.europa.eu/book-page/rapid-estimates-and-nowcasting-2024)
 
-### Thémis consulting from 20/10/2022 to 03/01/2023 <a name="themis"></a>
+### Thémis consulting from 20/10/2022 to 19/09/2023 <a name="themis"></a>
 Power BI project (pivot table from excel to Power BI about annual results and objectives of the sales staff).
 #### Mission at MGEN from 03/01/2023 to 19/09/2023 <a name="mgen"></a>
 - Overview: technical work of data engineer in a complex information system using high-performance tools
